@@ -22,4 +22,4 @@ This HTML and JavaScript code provide a simple web application to view GitHub us
 
 10. **Dynamic Profile Display**: The fetched data, including the user's name, login, location, followers, following, public repositories, and avatar image, is displayed dynamically on the webpage.
 
-**Note to Users**: Before using this application, ensure you have obtained your GitHub Personal Access Token and replace "YOUR-GITHUB-TOKEN" in the JavaScript code with your actual token. This is necessary for proper functioning and to avoid API rate-limiting issues.
+**Note to Users**: Before using this application, ensure you have obtained your GitHub Personal Access Token and replace "YOUR-GITHUB-TOKEN" in the JavaScript code with your actual token. This is necessary for proper functioning and to avoid API rate-limiting issues. ❌ DO NOT WRITE YOUR GITHUB TOKEN AND UPLOAD IN REPOSITORIES - THIS CODE IS JUST FOR TESTING PURPOSE.
